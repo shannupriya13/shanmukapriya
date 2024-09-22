@@ -1,2 +1,3 @@
 # shanmukapriya
-this is my first repositary
+this is my first git repositary
+author shanmukapriya
